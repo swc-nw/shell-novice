@@ -52,3 +52,4 @@ These lessons will start you on a path towards using these resources effectively
 *   [Reference](reference.html)
 *   [Discussion](discussion.html)
 *   [Instructor's Guide](instructors.html)
+*   [Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/)
